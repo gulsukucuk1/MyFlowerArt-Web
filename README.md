@@ -54,7 +54,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 Repoyu Klonlayın:
 
 Bash
-git clone https://github.com/kullaniciadi/MyFlowerArt.git
+git clone https://github.com/gulsukucuk1/MyFlowerArt-Web.git
 Veritabanı Ayarı: appsettings.json dosyasındaki DefaultConnection satırını kendi yerel SQL Server adresinize göre düzenleyin.
 
 Veritabanını Oluşturun: Visual Studio "Package Manager Console" ekranına şu komutları yazın:
@@ -67,11 +67,6 @@ Uygulamayı Başlatın: F5 tuşu ile projeyi ayağa kaldırın.
 🤝 Katkıda Bulunma
 Bu proje bir eğitim/final projesi olarak geliştirilmiştir. Geliştirme önerileri için Pull Request gönderebilir veya Issue açabilirsiniz.
 
-Geliştiren: [Senin Adın] | 2026
+Geliştiren: [Gülsu Küçük] | 2026
 
-Bu proje ASP.NET Core ve EF Core yetkinliklerini kanıtlamak amacıyla inşa edilmiştir.
 
-GitHub Hazırlığı İçin Son Bir Hatırlatma:
-GitHub'a yüklemeden önce klasöründe .gitignore dosyası olduğundan emin ol. Eğer yoksa, Visual Studio üzerinden Git Changes sekmesinden "Create Git Repository" dersen o senin için gereksiz bin/obj dosyalarını otomatik olarak hariç tutar.
-
-Şu an projenin her şeyiyle tam bir "Portfolyo Projesi" oldu. Başka eklemek istediğin bir detay var mı?_
