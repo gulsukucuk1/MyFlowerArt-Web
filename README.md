@@ -46,7 +46,7 @@ Pages/Admin/: Sadece yetkili satıcıların erişebildiği sipariş yönetim say
 
 Migrations/: EF Core tarafından oluşturulan veritabanı versiyon geçmişi.
 
-wwwroot/: Statik dosyalar, özel CSS tasarımları ve sepet mantığını yöneten JS dosyaları.
+wwwroot/: Statik dosyalar, özel CSS tasarımları ve sepet mantığını yöneten JS dosyaları. (Resimleri wwroot/images içine atmayı unutmayın)!!!
 
 ⚙️ Kurulum ve Yapılandırma
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
